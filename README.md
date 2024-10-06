@@ -1,5 +1,5 @@
 
-### Min Shopify
+### Mini Shopify
 
 Min Shopify is a visually stunning application built using Flutter, focusing primarily on providing an exceptional user interface (UI). While the application is in its early stages, it sets the groundwork for future functionality with its polished design and smooth interactions.
 ## Machine Text Complete UI:
